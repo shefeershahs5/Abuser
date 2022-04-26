@@ -59,5 +59,3 @@ Array.prototype.remove = function() {
     }
     return this;
 };
-
-start.bot();
