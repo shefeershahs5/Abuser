@@ -167,7 +167,7 @@
         "GROUP_LINK": {
             "description": "Official group link of your bot.",
             "required": true,    
-            "value": "https://chat.whatsapp.com/Dt3C4wrQmt0GG6io1IBIHb"
+            "value": "https://chat.whatsapp.com/DNP9Fd1eWrjKz2DalRI2CX"
         },
         "BOT_NAME": {
             "description": "Your bot's name. This is very important!",
