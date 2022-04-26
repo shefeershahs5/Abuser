@@ -151,7 +151,7 @@
         "STICKER_DATA": {
             "description": "Sticker packname changer. Give any text here",
             "required": false,    
-            "value": "ᴀʙᴜsᴇʀ;ᴊᴀsɪʟ¹¹"
+            "value": "ʙᴏᴛ ᴄʀᴇᴀᴛᴇʀ;ᴀʙᴜ sᴇʀ"
         },
         "REMOVE_FILTER": {
             "description": "By using these words on .antiword enabled groups, user will be kicked!",
